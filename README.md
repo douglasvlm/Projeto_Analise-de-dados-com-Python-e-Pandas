@@ -3,10 +3,11 @@
 ```
 	Análises de operações de crédito de estados e municípios com Python e Pandas
 	Visualização de Credores e valores no período 2002-2021
-		Autor: Douglas Martin
-		https://web.digitalinnovation.one/users/douglasviniciuslourenco
+	
+	Autor: Douglas Martin
+	https://web.digitalinnovation.one/users/douglasviniciuslourenco
 		
-	Fonte dos dados disponível em : < https://dados.gov.br/dataset/operacoes-copem >
+	Dados disponível em : < https://dados.gov.br/dataset/operacoes-copem >
 ```
 
 
