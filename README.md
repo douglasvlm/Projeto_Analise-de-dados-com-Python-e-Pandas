@@ -24,12 +24,6 @@
 
 ### 3 - Etapa de transformação e visualização dos dados
 
-        Visualização dos dados
-        Transações por tipo moeda     
-        Soma de transações 2002-2021
-        Conversão de moedas
-        Quais credores possume atividades em 2021
-
         - Movimentações com Iene no estado de SP
         - Movimentações com Dólar-EUA no estado do ACRE
         - Movimentações com Direito Especial - SDR
